@@ -1,0 +1,47 @@
+_repo: The-Scottish-Fairy-Book_37532
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Morris Meredith
+    aliases:
+    - Williams, Morris M.
+    - Williams, M. Meredith
+    gutenberg_agent_id: '38907'
+    url: http://www.gutenberg.org/2009/agents/38907
+covers:
+- cover_type: archival
+  image_path: 37532-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grierson, Elizabeth W. (Elizabeth Wilson)
+    aliases:
+    - Grierson, E. W. (Elizabeth Wilson)
+    - Grierson, Elizabeth Wilson
+    gutenberg_agent_id: '33327'
+    url: http://www.gutenberg.org/2009/agents/33327
+description: ''
+gutenberg_issued: '2011-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Scotland'
+- !lcsh 'Fairy tales -- Scotland'
+- !lcc 'PZ'
+- !lcc 'GR'
+tableOfContents: Thomas the rhymer -- Gold-tree and Silver-tree -- Whippity-Stourie
+  -- The Red-Etin -- The seal catcher and the merman -- The page boy and the silver
+  goblet -- The black bull of Norroway -- The wee bannock -- The elfin knight -- What
+  to say to the new mune -- Habetrot the spinstress -- Nippit Fit and Clippit Fit
+  -- The fairies of Merlin's Crag -- The wedding of Robin Redbreast and Jenny Wren
+  -- The Dwarfie Stone -- Canonbie Dick and Thomas of Ercildoune -- The Laird o' Co'
+  -- Poussie Baudrons -- The milk white doo -- The Draiglin' Hogney -- The Brownie
+  o' Ferne-Den -- The Witch of Fife -- Assipattle and the Mester Stoorworm -- The
+  Fox and the Wolf -- Katherine Crackernuts -- Times to sneeze -- The Well o' the
+  World's End -- Farquhar MacNeill -- Peerifool -- Birthdays.
+title: The Scottish Fairy Book
+url: http://www.gutenberg.org/ebooks/37532
