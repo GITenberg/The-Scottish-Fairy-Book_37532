@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '33327'
     url: http://www.gutenberg.org/2009/agents/33327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37532#The-Scottish-Fairy-Book
 gutenberg_issued: '2011-09-26'
 gutenberg_type: Text
 identifiers:
